@@ -8,7 +8,13 @@ var person = "male", "female";
 
 
 // question 4
+var numbers = ["0", "1", "2", "3", "4"];
+var numberOfNumbers = numbers.length;
+console.log(numberOfNumbers)
 
+for(var i = 0; i < NumberOfNumbers; i++) {
+    console.log(numbers[i]);
+}
 
 // question 5
 
@@ -17,6 +23,10 @@ var person = "male", "female";
 
 
 // question 7
+var cars;
+var cars = ["audi", "bmw"];
+var cars = true;
+var cars = 2;
 
 
 // question 8
